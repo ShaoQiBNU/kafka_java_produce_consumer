@@ -90,12 +90,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
  
-/**
- * @author mengfanzhu
- * @Package bigdata.kafka
- * @Description: kafka 消费者
- * @date 17/3/8 17:21
- */
 public class KafkaConsumerExample {
  
     //config
